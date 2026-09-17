@@ -15,3 +15,4 @@ log_level = 2
 [app:android]
 android.archs = arm64-v8a, armeabi-v7a
 android.permissions = INTERNET
+android.accept_sdk_license_agreement = True
